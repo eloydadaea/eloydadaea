@@ -19,16 +19,6 @@ Soy un desarrollador enfocado en crear soluciones eficientes y escalables. Actua
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad y lenguajes más utilizados:
-
-![Stats de Eloy](https://github-readme-stats.vercel.app/api?username=eloydadaea&show_icons=true&theme=tokyonight&count_private=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=eloydadaea&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
 ### 🔭 Proyectos Destacados
 
 - **[SafeAlert-VisualCode](https://github.com/Diegou2203/SafeAlert-VisualCode):** Desarrollo del Front-End para un sistema de alertas preventivas.
