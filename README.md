@@ -20,14 +20,6 @@ I bridge the gap between robust backend logic and intuitive user experiences. Pa
 
 ---
 
-### 📊 My GitHub Activity
-
-![Eloy's Stats](https://github-readme-stats.vercel.app/api?username=eloydadaea&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eloydadaea&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
 ### 🔭 Featured Projects
 
 - **[SafeAlert-VisualCode](https://github.com/Diegou2203/SafeAlert-VisualCode):** Frontend development and UI implementation for a preventive alert system.
