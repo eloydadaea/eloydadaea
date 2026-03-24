@@ -32,4 +32,4 @@ I bridge the gap between robust backend logic and intuitive user experiences. Pa
 
 - **LinkedIn:** [linkedin.com/in/eloydadaea](https://www.linkedin.com/in/eloy-david-alata-giraldo-973607256/)
 - **Portfolio:** [eloydev17.website](https://eloydev17-website.vercel.app)
-- **Email:** your-email@example.com
+- **Email:** eloydavida6@gmail.com
